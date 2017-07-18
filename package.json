@@ -1,0 +1,14 @@
+{
+  "name": "redux-starter-heroku",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:kkkkkxiaofei/redux-starter-heroku.git",
+  "author": "Xiaofei <xifzhang@thoughtworks.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "scripts": {
+  	"start": "node main.js"
+  }
+}
